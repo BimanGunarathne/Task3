@@ -2,7 +2,7 @@
 
 
 ```javascript
-m: 10 0N # 100?100
+m:10 0N # 100?100
 ```
 
 #### Question 1
